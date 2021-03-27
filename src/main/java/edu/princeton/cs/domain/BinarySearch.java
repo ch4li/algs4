@@ -1,4 +1,4 @@
-package edu.princeton.cs.demo;
+package edu.princeton.cs.domain;
 
 import edu.princeton.cs.algs4.StdOut;
 

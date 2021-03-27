@@ -1,4 +1,4 @@
-package edu.princeton.cs.demo;
+package edu.princeton.cs.domain;
 
 import edu.princeton.cs.algs4.StdIn;
 
@@ -106,8 +106,6 @@ public class GCD {
     }
 
     /** 储存遍历的同时直接打印
-     *
-     * @param N 二维数组N*N,整数
      */
     public static void matrixIndex2Primes() {
         System.out.println("请输入二维数组N*N的边长:");
